@@ -1,1 +1,1 @@
-# killerphp
+# projects of the killerphp course
